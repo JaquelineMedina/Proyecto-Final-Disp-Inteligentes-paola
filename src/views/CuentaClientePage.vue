@@ -26,7 +26,7 @@
             </ion-grid>
         <ion-card-header>
           <ion-card-title class="card-container__title"
-            >Nombre de usuario</ion-card-title
+            >Nombre de Usuario</ion-card-title
           >
         </ion-card-header>
 
