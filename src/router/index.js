@@ -8,6 +8,10 @@ import ContinuarCompraPage from '../views/ContinuarCompraPage.vue'
 import CuentaClientePage from '../views/CuentaClientePage.vue'
 import MenuPage from '../views/MenuPage.vue'
 import AdministrarProductoPage from '../views/AdministrarProductoPage.vue'
+import NosotrosPage from '../views/NosotrosPage.vue'
+import InicioNormalPage from '../views/InicioNormalPage'
+
+
 
 const routes = [
   {
@@ -61,6 +65,17 @@ const routes = [
     path: '/administrar_producto',
     name: 'AdministrarProducto',
     component: AdministrarProductoPage
+  },
+
+  {
+    path: '/nosotros',
+    name: 'Nosotros',
+    component: NosotrosPage
+  },
+  {
+    path: '/inicio_normal',
+    name: 'InicioNormal',
+    component :InicioNormalPage
   }
 ]
 

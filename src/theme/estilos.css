@@ -228,3 +228,62 @@ text-align: center;
     flex-direction: column;
     border-radius: 20px;
 }
+
+/* NOSOTROS */
+.descripcion {
+    font-size: 2.5vmin;
+    padding-bottom: 4vmin;
+    text-align:justify;
+    margin: 25px;
+    color: #49454F;
+}
+.img-nosotros{
+    display: flex;
+    justify-content: center;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+
+
+}
+.container-nos{
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+    border-radius: 15px;  
+}
+
+.container-nos_title{
+    color: #1C1B1F;
+    font-family:'Roboto Flex', sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* INICIO NORMAL */
+.titulo{
+    font-family: 'Poppins', sans-serif;
+    color:black;
+    text-align:center;
+    font-size: 7vmin;
+    text-shadow: gray 0.0em 0.0em 0.1em;
+    display: flex;
+   }
+.desc{
+    font-size: 3.5vmin;
+    text-align:center;
+    margin: 25px;
+    color: #49454F;
+    font-weight: lighter;
+
+}
+
+.container-ini{
+    max-width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4em;   
+}
+
