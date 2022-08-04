@@ -206,3 +206,25 @@ text-align: center;
     flex-direction: column;
     border-radius: 20px;
 }
+
+/* ADMINISTRAR PRODUCTOS */
+.img-foco-container {
+    display: contents;
+    justify-content: center;
+    width: 50%;
+    margin-left: auto;
+
+}
+
+.img-foco {
+    width: 28%;
+    padding-top: 2vmin;
+    justify-content: center;
+    
+}
+
+.card-inicio-usuario {
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+}

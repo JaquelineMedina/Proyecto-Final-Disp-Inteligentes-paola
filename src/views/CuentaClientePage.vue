@@ -2,7 +2,7 @@
   <ion-page>
     <ion-header :translucent="true">
       <ion-toolbar class="toolbar">
-        <ion-title>Mi cuenta</ion-title>
+        <ion-title>Mi Cuenta</ion-title>
       </ion-toolbar>
     </ion-header>
 
